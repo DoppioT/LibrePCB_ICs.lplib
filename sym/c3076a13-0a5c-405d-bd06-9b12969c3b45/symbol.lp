@@ -1,6 +1,6 @@
 (librepcb_symbol c3076a13-0a5c-405d-bd06-9b12969c3b45
  (name "Logic NAND Gate")
- (description "")
+ (description "Dual input NAND gate without power pins")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")
