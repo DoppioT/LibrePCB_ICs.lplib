@@ -2,7 +2,7 @@
  (name "Logic XOR Gate")
  (description "Dual input XOR gate without power pins")
  (keywords "logic")
- (author "Marco")
+ (author "DoppioT")
  (version "0.1")
  (created 2026-02-22T19:17:19Z)
  (deprecated false)

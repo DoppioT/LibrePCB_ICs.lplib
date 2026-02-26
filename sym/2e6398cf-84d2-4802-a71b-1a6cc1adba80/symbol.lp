@@ -2,7 +2,7 @@
  (name "Logic OR Gate")
  (description "Dual input OR gate without power pins")
  (keywords "logic")
- (author "Marco")
+ (author "DoppioT")
  (version "0.1")
  (created 2026-02-22T18:54:47Z)
  (deprecated false)
