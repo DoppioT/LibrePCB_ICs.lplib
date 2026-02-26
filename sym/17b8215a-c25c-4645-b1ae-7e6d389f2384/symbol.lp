@@ -2,7 +2,7 @@
  (name "Logic NOR Gate")
  (description "Dual input NOR gate without power pins")
  (keywords "logic")
- (author "Marco")
+ (author "DoppioT")
  (version "0.1")
  (created 2026-02-22T19:02:57Z)
  (deprecated false)
