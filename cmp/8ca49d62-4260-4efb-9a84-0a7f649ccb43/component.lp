@@ -1,5 +1,5 @@
 (librepcb_component 8ca49d62-4260-4efb-9a84-0a7f649ccb43
- (name "Schmitt Trigger Inverting Hex")
+ (name "Buffer Inverting With Schmitt Trigger Hex")
  (description "")
  (keywords "inverting,schmitt,trigger,logic")
  (author "DoppioT")
