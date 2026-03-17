@@ -2,7 +2,7 @@
  (name "Schmitt Trigger Inverting Without Power Pins")
  (description "")
  (keywords "inverting,schmitt,trigger,logic")
- (author "Marco")
+ (author "DoppioT")
  (version "0.1")
  (created 2026-02-18T18:18:22Z)
  (deprecated false)
