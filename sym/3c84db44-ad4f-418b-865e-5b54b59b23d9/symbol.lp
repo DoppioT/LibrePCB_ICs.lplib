@@ -1,5 +1,5 @@
 (librepcb_symbol 3c84db44-ad4f-418b-865e-5b54b59b23d9
- (name "Schmitt Trigger Inverting Without Power Pins")
+ (name "Buffer Inverting With Schmitt Trigger")
  (description "")
  (keywords "inverting,schmitt,trigger,logic")
  (author "DoppioT")
