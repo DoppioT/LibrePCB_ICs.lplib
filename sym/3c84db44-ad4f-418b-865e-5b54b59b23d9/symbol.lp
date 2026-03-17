@@ -7,6 +7,7 @@
  (created 2026-02-18T18:18:22Z)
  (deprecated false)
  (generated_by "")
+ (category 56f01b1d-0723-4c33-88f7-9968cf96b50f)
  (category 8e4af7b5-cbff-4409-9698-f2b545218075)
  (grid_interval 2.54)
  (pin fce326ea-6a5b-4ca0-acc0-27f3bafa1af1 (name "IN")
