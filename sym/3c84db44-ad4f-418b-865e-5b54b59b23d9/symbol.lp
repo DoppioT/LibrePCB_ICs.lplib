@@ -41,7 +41,7 @@
   (vertex (position -0.635 0.635) (angle 0.0))
  )
  (circle 6118d9f0-5c68-4e8c-99e2-757db9b52d55 (layer sym_outlines)
-  (width 0.254) (fill false) (grab_area false) (diameter 0.898) (position 3.175 0.0)
+  (width 0.2) (fill false) (grab_area true) (diameter 0.898) (position 3.175 0.0)
  )
  (text 50c6c973-51f6-4aa3-8ff8-d58f15518742 (layer sym_values) (height 2.54)
   (align left top) (position -3.175 -2.54) (rotation 0.0) (lock false)
