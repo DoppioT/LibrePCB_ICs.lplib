@@ -1,6 +1,6 @@
 (librepcb_symbol 17b8215a-c25c-4645-b1ae-7e6d389f2384
  (name "Logic NOR Gate")
- (description "Dual input NOR gate without power pins")
+ (description "Dual input NOR gate without power pins.")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")
@@ -29,7 +29,7 @@
   (vertex (position -1.27 5.08) (angle -50.0))
   (vertex (position 5.08 0.0) (angle -50.0))
   (vertex (position -1.27 -5.08) (angle 0.0))
-  (vertex (position -6.35 -5.08) (angle 80.0))
+  (vertex (position -6.35 -5.08) (angle 75.0))
   (vertex (position -6.35 5.08) (angle 0.0))
   (vertex (position -1.27 5.08) (angle 0.0))
  )

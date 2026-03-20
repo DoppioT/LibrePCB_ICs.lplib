@@ -1,6 +1,6 @@
 (librepcb_symbol 354b5355-93e3-4cc5-94af-6790fd15653b
  (name "Logic XOR Gate")
- (description "Dual input XOR gate without power pins")
+ (description "Dual input XOR gate without power pins.")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")
@@ -29,7 +29,7 @@
   (vertex (position -1.27 5.08) (angle -50.0))
   (vertex (position 5.08 0.0) (angle -50.0))
   (vertex (position -1.27 -5.08) (angle 0.0))
-  (vertex (position -6.35 -5.08) (angle 80.0))
+  (vertex (position -6.35 -5.08) (angle 75.0))
   (vertex (position -6.35 5.08) (angle 0.0))
   (vertex (position -1.27 5.08) (angle 0.0))
  )
