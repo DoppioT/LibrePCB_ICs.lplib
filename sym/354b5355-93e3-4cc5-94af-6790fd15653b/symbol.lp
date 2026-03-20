@@ -29,7 +29,7 @@
   (vertex (position -1.27 5.08) (angle -50.0))
   (vertex (position 5.08 0.0) (angle -50.0))
   (vertex (position -1.27 -5.08) (angle 0.0))
-  (vertex (position -6.35 -5.08) (angle 80.0))
+  (vertex (position -6.35 -5.08) (angle 75.0))
   (vertex (position -6.35 5.08) (angle 0.0))
   (vertex (position -1.27 5.08) (angle 0.0))
  )
