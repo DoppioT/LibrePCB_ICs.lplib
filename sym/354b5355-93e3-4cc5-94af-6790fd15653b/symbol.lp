@@ -1,6 +1,6 @@
 (librepcb_symbol 354b5355-93e3-4cc5-94af-6790fd15653b
  (name "Logic XOR Gate")
- (description "Dual input XOR gate without power pins")
+ (description "Dual input XOR gate without power pins.")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")

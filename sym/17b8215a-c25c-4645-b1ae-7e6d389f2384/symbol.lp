@@ -1,6 +1,6 @@
 (librepcb_symbol 17b8215a-c25c-4645-b1ae-7e6d389f2384
  (name "Logic NOR Gate")
- (description "Dual input NOR gate without power pins")
+ (description "Dual input NOR gate without power pins.")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")

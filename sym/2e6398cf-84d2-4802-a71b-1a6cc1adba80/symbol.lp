@@ -1,6 +1,6 @@
 (librepcb_symbol 2e6398cf-84d2-4802-a71b-1a6cc1adba80
  (name "Logic OR Gate")
- (description "Dual input OR gate without power pins")
+ (description "Dual input OR gate without power pins.")
  (keywords "logic")
  (author "DoppioT")
  (version "0.1")
